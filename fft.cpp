@@ -2,7 +2,7 @@
 /**
  * @author      : Yan Jianfeng
  * @date        : 2020-04-10
- * @description : dct implementation ,cited from https://cp-algorithms.com/algebra/fft.html
+ * @description : dct implementation ,citing from https://cp-algorithms.com/algebra/fft.html
  * @version     : 1.0
  */
 #include <memory.h>

@@ -1,7 +1,7 @@
 
 /**
  * @author      : Yan Jianfeng
- * @date        : 2010-04-10
+ * @date        : 2020-04-10
  * @description : dct implementation 
  * @version     : 1.0
  */
