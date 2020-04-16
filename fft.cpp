@@ -1,8 +1,8 @@
 
 /**
  * @author      : Yan Jianfeng
- * @date        : 2019-04-10
- * @description : dct implementation
+ * @date        : 2020-04-10
+ * @description : dct implementation ,cited from https://cp-algorithms.com/algebra/fft.html
  * @version     : 1.0
  */
 #include <memory.h>

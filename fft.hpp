@@ -1,8 +1,8 @@
 
 /**
  * @author      : Yan Jianfeng
- * @date        : 2019-04-10
- * @description : dct implementation
+ * @date        : 2010-04-10
+ * @description : dct implementation 
  * @version     : 1.0
  */
 #include <vector>
